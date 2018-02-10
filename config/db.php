@@ -1,8 +1,8 @@
 <?php
 
 return array(
-    'host'      => '192.168.1.2',
-    'username'  => 'msd',
-    'password'  => 'msd',
-    'name'      => 'cms_sajt1'
+    'host'      => 'localhost',
+    'username'  => 'root',
+    'password'  => '',
+    'name'      => 'cms_site1'
 );
